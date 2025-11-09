@@ -1,5 +1,5 @@
 # Sorting Algorithm Visualizer
-## By ASMIT - Computer Science 3rd Year
+## By Naman- Computer Science 3rd Year
 
 ### Features:
 - 🎯 5 Sorting Algorithms (Bubble, Selection, Insertion, Quick, Merge)
@@ -14,4 +14,5 @@
 
 ### Technologies Used:
 - Frontend: HTML, CSS, JavaScript, Chart.js
+
 - Backend: C++ Algorithms
