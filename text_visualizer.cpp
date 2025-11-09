@@ -16,7 +16,7 @@ void printHeader() {
     cout << "\n";
     cout << "============================================================\n";
     cout << "              SORTING ALGORITHM VISUALIZER\n";
-    cout << "                    Created by: ASMIT\n";
+    cout << "                    Created by: NAMAN\n";
     cout << "               Computer Science - 3rd Year\n";
     cout << "============================================================\n";
     cout << "\n";
@@ -217,4 +217,5 @@ int main() {
     } while(choice != 5);
     
     return 0;
+
 }
